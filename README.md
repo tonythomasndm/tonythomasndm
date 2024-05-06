@@ -1,31 +1,43 @@
 # Hi there, I'm Tony Thomas! 👋
 
-I'm a passionate Computer Science student at Indraprastha Institute of Information Technology, Delhi, with a strong interest in software development, machine learning, and UI/UX design.
+I'm a passionate Computer Science student pursuing a BTech in Computer Science and Design at Indraprastha Institute of Information Technology, Delhi. My academic journey has been enriched with hands-on experience in software development, UI/UX design, and machine learning.
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Bachelor of Technology in Computer Science and Design (Expected Graduation: June 2025)
-- 🌱 **Current Focus**: Exploring advanced machine learning techniques and enhancing my skills in web and mobile development.
-- 💻 **Tech Stack**: Python, JavaScript, React, React Native, Firebase, TensorFlow, Java, C/C++
+- 💻 **Technical Skills:** Proficient in Python, Java, C/C++, and JavaScript. Experienced in web and mobile development using React, React Native, and Firebase.
+- 🌱 **Current Focus:** Exploring advanced machine learning techniques, especially in language models like LLAMAs, and diving into reinforcement learning for model deployment.
+- 🎨 **Design Enthusiast:** Passionate about user-centric design principles and crafting intuitive interfaces that enhance user experiences.
 
-## 💼 Experience
-
-- **Team Leader & UI Designer** at Fresources (May 2022 – July 2023)
-  - Led a team and designed user-centric UI/UX for websites.
-  
 ## 🌟 Projects
 
-- **PolicyMakersGPT** (March 2024 – Present)
-  - Developed a chatbot integrating LLAMA for policy impact assessment.
-  
-- **SarvSeva** (August 2023 – Present)
-  - Created a social service app connecting volunteers with help seekers using React Native and Firebase.
+### PolicyMakersGPT
+- **Description:** Developed a chatbot integrating LLAMA for policy impact assessment.
+- **Tech Stack:** Python, Django, Llama, Langchain, Google GoEmotions
+- **Key Contributions:**
+  - Conducted web scraping using BeautifulSoup to collect government schemes data.
+  - Implemented sentiment analysis using GoEmotions to assess user sentiment across 28 emotions.
+
+### SarvSeva
+- **Description:** Developed a social service app connecting volunteers with help seekers.
+- **Tech Stack:** React Native, Expo, Firebase, JavaScript
+- **Key Contributions:**
+  - Collaborated with Vidya Bharthi Foundation representatives, emphasizing user-centric design and localization.
+
+### Weather Monitoring and Drought Assessment
+- **Description:** Developed a weather monitoring and drought assessment application for farmers.
+- **Tech Stack:** Python, MySQL
+- **Key Contributions:**
+  - Integrated databases with over 3 million entries from data.gov.in to provide valuable insights for farmers.
+
+### Optical Character Recognition
+- **Description:** Achieved 96.6% accuracy in character recognition using classical ML techniques.
+- **Tech Stack:** Python, Sklearn, NumPy, TensorFlow
 
 ## 📚 Technical Skills
 
-- **Languages**: Python, JavaScript, Java, C/C++
-- **Frameworks/Libraries**: React, React Native, TensorFlow, Firebase
-- **Tools**: Git, VS Code, Figma
+- **Languages:** Python, Java, C/C++, SQL, JavaScript, HTML/CSS, Kotlin, TypeScript
+- **Frameworks/Libraries:** React, React Native, Node.js, Firebase, TensorFlow, PyTorch
+- **Tools:** Git, VS Code, IntelliJ, Figma, Adobe Suite
 
 ## 🔗 Connect with Me
 
@@ -34,9 +46,9 @@ I'm a passionate Computer Science student at Indraprastha Institute of Informati
 
 ## 🌟 Leadership & Activities
 
-- **Convenor at Epoch 2024**: Organized Delhi's largest student-led hackathon.
-- **Design Head**: Led design initiatives for college clubs and programs.
+- **Convenor at Epoch 2024:** Organized Delhi's largest student-led hackathon focusing on Machine Learning.
+- **Design Head:** Led design initiatives for college clubs and programs.
 
 ---
 
-Feel free to modify and expand upon this template with more details about your projects, experiences, and achievements. You can create a new README.md file in your GitHub repository and paste this content into it. Markdown syntax is used to format the text and add headings, lists, links, and other elements.
+Feel free to customize and expand upon this template further with more details about your experiences, projects, and skills. This Markdown template provides a structured format that you can easily modify and use for your GitHub README file. Copy and paste this content into your README.md file in your GitHub repository, and then update it according to your preferences and specific information. Markdown syntax is used here for formatting, such as headings (`##`), bullet points (`-`), and links (`[text](link)`). You can preview how it will look on GitHub by viewing the rendered README.md file in your repository.
