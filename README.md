@@ -5,7 +5,7 @@ I'm a passionate Computer Science student pursuing a BTech in Computer Science a
 ## 🚀 About Me
 
 - 💻 **Technical Skills:** Proficient in Python, Java, C/C++, and JavaScript. Experienced in web and mobile development using React, React Native, and Firebase.
-- 🌱 **Current Focus:** Exploring advanced machine learning techniques, especially in language models like LLAMAs, and diving into reinforcement learning for model deployment.
+- 🌱 **Current Focus:** Exploring advanced machine learning techniques, especially in language models like LLAMAs, GPT-2 and diving into reinforcement learning for model deployment.
 - 🎨 **Design Enthusiast:** Passionate about user-centric design principles and crafting intuitive interfaces that enhance user experiences.
 
 ## 📚 Technical Skills
