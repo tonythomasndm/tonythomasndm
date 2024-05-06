@@ -35,7 +35,11 @@ I'm a passionate Computer Science student pursuing a BTech in Computer Science a
 
 ## 📚 Technical Skills
 
-- **Languages:** Python, Java, C/C++, SQL, JavaScript, HTML/CSS, Kotlin, TypeScript
+- ### Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="JavaScript" width="40" height="40"/>&nbsp;
 - **Frameworks/Libraries:** React, React Native, Node.js, Firebase, TensorFlow, PyTorch
 - **Tools:** Git, VS Code, IntelliJ, Figma, Adobe Suite
 
