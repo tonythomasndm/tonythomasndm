@@ -2,6 +2,8 @@
 
 I'm a passionate Computer Science student pursuing a BTech in Computer Science and Design at Indraprastha Institute of Information Technology, Delhi. My academic journey has been enriched with hands-on experience in software development, UI/UX design, and machine learning.
 
+Feel free to reach out to me by [tony21360@iiitd.ac.in](mailto:tony21360@iiitd.ac.in).
+
 ## 🚀 About Me
 
 - 💻 **Technical Skills:** Proficient in Python, Java, C/C++, and JavaScript. Experienced in web and mobile development using React, React Native, and Firebase.
