@@ -70,4 +70,5 @@ I'm a passionate Computer Science student pursuing a BTech in Computer Science a
 
 - **Convenor at Epoch 2024:** Organized Delhi's largest student-led hackathon focusing on Machine Learning.
 - **Design Head:** Led design initiatives for college clubs and programs.
+- **Hobbies:** Finance, Anime, WebSeries, Coding
 
