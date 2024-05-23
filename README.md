@@ -71,3 +71,25 @@ Feel free to reach out to me by [tony21360@iiitd.ac.in](mailto:tony21360@iiitd.a
 - **Design Head:** Led design initiatives for college clubs and programs.
 - **Hobbies:** Finance, Anime, WebSeries, Coding
 
+
+	
+<summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tonythomasndm&theme=github_dark" alt="tonythomasndm" align="center"/></p>
+
+<summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tonythomasndm&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="tonythomasndm" align="center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonythomasndm&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="tonythomasndm" align="center"/></p>
+
+<summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tonythomasndm&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="tonythomasndm" /></p>
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"><a href="#"><img alt="My Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tonythomasndm&theme=github-compact&hide_border=true" /></a></p>
+
+<summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/tonythomasndm"><img src="https://github-profile-trophy.vercel.app/?username=tonythomasndm&margin-w=5&theme=radical" alt="tonythomasndm" /></a> </p>
+
+<summary><b>💰 You can help me by donating</b></summary>
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tonythomasndm)
+<br>
